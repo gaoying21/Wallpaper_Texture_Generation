@@ -9,8 +9,13 @@ Citation
 If you find this work useful in your research, please consider citing:
 
 @ARTICLE{Ying2021Wallpaper,
+
   author={Gao, Ying and Feng, Xiaohan and Zhang, Tiange and Rigall, Eric and Zhou, Huiyu and Qi, Lin and Dong, Junyu},
+  
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  
   title={Wallpaper Texture Generation and Style Transfer Based on Multi-label Semantics}, 
+  
   year={2021},
+  
   doi={10.1109/TCSVT.2021.3078560}}
